@@ -10,5 +10,8 @@
         ".vscode-test": true
     },
     "tslint.autoFixOnSave": true,
-    "tslint.ignoreDefinitionFiles": true
+    "tslint.ignoreDefinitionFiles": true,
+     
+    "leetcode.workspaceFolder": "/Users/abhivir42/summer_of_2023/vscode-leetcode"    
+    
 }
